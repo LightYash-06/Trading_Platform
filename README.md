@@ -37,10 +37,3 @@ A **full‑stack crypto trading platform** built with **Spring Boot, MySQL, Spri
 
 **APIs**
 - Gemini API, CoinGecko API
-
-**Other**
-- Docker (containerization)
-- GitHub Actions (CI/CD)
-
----
-
