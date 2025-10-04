@@ -44,4 +44,3 @@ A **full‑stack crypto trading platform** built with **Spring Boot, MySQL, Spri
 
 ---
 
-## 📂 Project Structure
